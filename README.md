@@ -1,4 +1,0 @@
-NetbeansApp
-===========
-
-First netbeans app
